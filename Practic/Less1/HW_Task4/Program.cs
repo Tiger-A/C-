@@ -23,6 +23,3 @@ while (i <= numA)
 }
 
 
-
-
-
