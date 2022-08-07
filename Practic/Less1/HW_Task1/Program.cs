@@ -14,7 +14,7 @@ int numA = Convert.ToInt32(ReadLine());
 Write("Введите число B: ");
 int numB = Convert.ToInt32(ReadLine());
  
-if (numB*numB < numA){
+if (numB< numA){
     System.Console.WriteLine("Число А больше B");
 }else{
     System.Console.WriteLine("Число B больше А");
