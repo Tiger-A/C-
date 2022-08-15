@@ -21,5 +21,5 @@ for(int i = 0; i < 10; i++)
 {
 int randomNumber = GetRandomNumberInRange(10,99);
 int MaxDigit = GetMaxDigitFromNumber(randomNumber);
-Console.WriteLine($"Наибольшая цифра числа -  {randomNumber} является {MaxDigit}");
+Console.WriteLine($"Наибольшая цифра числа  -  {randomNumber} является {MaxDigit}");
 }
