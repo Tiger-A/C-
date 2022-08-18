@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GB\\C#\\Practic\\Lesson3\\Task23\\Task23.csproj": {}
+    "D:\\GB\\C#\\Practic\\Lesson3\\task23\\Task23.csproj": {}
   },
   "projects": {
-    "D:\\GB\\C#\\Practic\\Lesson3\\Task23\\Task23.csproj": {
+    "D:\\GB\\C#\\Practic\\Lesson3\\task23\\Task23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GB\\C#\\Practic\\Lesson3\\Task23\\Task23.csproj",
+        "projectUniqueName": "D:\\GB\\C#\\Practic\\Lesson3\\task23\\Task23.csproj",
         "projectName": "Task23",
-        "projectPath": "D:\\GB\\C#\\Practic\\Lesson3\\Task23\\Task23.csproj",
+        "projectPath": "D:\\GB\\C#\\Practic\\Lesson3\\task23\\Task23.csproj",
         "packagesPath": "C:\\Users\\efremovav\\.nuget\\packages\\",
-        "outputPath": "D:\\GB\\C#\\Practic\\Lesson3\\Task23\\obj\\",
+        "outputPath": "D:\\GB\\C#\\Practic\\Lesson3\\task23\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\efremovav\\AppData\\Roaming\\NuGet\\NuGet.Config"
