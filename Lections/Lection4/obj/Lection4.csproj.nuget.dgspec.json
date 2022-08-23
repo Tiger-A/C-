@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GB\\C#\\Lections\\Lection4\\Lection4.csproj": {}
+    "D:\\GB\\C#\\Lections\\lection4\\Lection4.csproj": {}
   },
   "projects": {
-    "D:\\GB\\C#\\Lections\\Lection4\\Lection4.csproj": {
+    "D:\\GB\\C#\\Lections\\lection4\\Lection4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GB\\C#\\Lections\\Lection4\\Lection4.csproj",
+        "projectUniqueName": "D:\\GB\\C#\\Lections\\lection4\\Lection4.csproj",
         "projectName": "Lection4",
-        "projectPath": "D:\\GB\\C#\\Lections\\Lection4\\Lection4.csproj",
+        "projectPath": "D:\\GB\\C#\\Lections\\lection4\\Lection4.csproj",
         "packagesPath": "C:\\Users\\efremovav\\.nuget\\packages\\",
-        "outputPath": "D:\\GB\\C#\\Lections\\Lection4\\obj\\",
+        "outputPath": "D:\\GB\\C#\\Lections\\lection4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\efremovav\\AppData\\Roaming\\NuGet\\NuGet.Config"
